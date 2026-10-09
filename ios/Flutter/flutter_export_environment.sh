@@ -1,7 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\Kimoo\Desktop\New folder\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Kimoo\Desktop\project MAsa\masa_fiexed_fahd-main"
+export "FLUTTER_ROOT=C:\Users\Kimoo\Desktop\sdk\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Kimoo\Desktop\my projects cv\masa_app\Masaa_App"
+export "FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=C:\Users\Kimoo\Desktop\my projects cv\masa_app\Masaa_App\ios\Flutter\ephemeral\Packages\.packages\FlutterFramework"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
